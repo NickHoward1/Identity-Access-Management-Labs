@@ -1,14 +1,23 @@
-<h1>Identity & Access Management Labs</h1>
+<h1>Microsoft Entra ID Lab</h1>
 
-<h2>Description</h2>
+<h2>Objective</h2>
 
-<h2>Languages</h2>
+<h2>Environment</h2>
+<ul>
+  <li></li>
+</ul>
+h2>Tasks Completed</h2>
+<ul>
+  <li></li>
+</ul>
+<h2>Tools used</h2>
+<ul>
+  <li></li>
+</ul>
 
-<h2>Environments Used </h2>
+<h2>Screenshots</h2>
 
-<h2>Tools</h2>
-
-<h2>Project walk-through:</h2>
+<h2>What I Learned</h2>
 
 <p align="left">
 
