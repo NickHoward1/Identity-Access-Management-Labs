@@ -6,7 +6,7 @@
 <ul>
   <li></li>
 </ul>
-h2>Tasks Completed</h2>
+<h2>Tasks Completed</h2>
 <ul>
   <li></li>
 </ul>
