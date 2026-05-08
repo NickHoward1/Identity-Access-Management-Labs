@@ -41,7 +41,9 @@ The screenshots below show the process of manually creating a new user account i
 
 Below, I demonstrate the creation of new groups within Microsoft Entra ID. I created both an HR group and a Sales/Marketing group, each configured for different business purposes. The HR group was created as a traditional Security group, which is used to manage access to specific resources, permissions, and security features across the organisation. The Sales/Marketing group was configured as a Microsoft 365 group, enabling users to collaborate and access shared services such as Microsoft Outlook, Microsoft Excel, Microsoft PowerPoint, Microsoft Teams, Microsoft OneDrive, and other Microsoft 365 applications.
 
-I also assigned roles within the HR Security group, including Global Administrator permissions, ensuring elevated privileges are only granted to users with the appropriate level of authority within the business. 
+I also assigned roles within the HR Security group, including Global Administrator permissions, ensuring elevated privileges are only granted to users with the appropriate level of authority within the business as an example.
+
+For the Sales/Marketing group, instead of manually assigning users, I configured the group as a Dynamic Group and created a rule that automatically adds users based on specific conditions. In this example, I configured the rule to include users located in the UK, demonstrating how dynamic groups can automate user management and improve administrative efficiency within Microsoft Entra ID.
 
 
 <img src= "https://github.com/NickHoward1/Identity-Access-Management-Labs/blob/b1b19239fe629e80fcf7345495fc51775ef35905/Screenshot%202026-05-08%20at%2014.59.34.png" width="300" height="300"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
