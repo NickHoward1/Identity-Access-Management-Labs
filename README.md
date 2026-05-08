@@ -39,7 +39,7 @@ The screenshots below show the process of manually creating a new user account i
 
 <p>
 <img src= "https://github.com/NickHoward1/Identity-Access-Management-Labs/blob/d61448333210e2549d845205f6d79fbd6a6097ac/Screenshot%202026-05-08%20at%2009.48.20.png" width="300" height="300"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src= "https://github.com/NickHoward1/Identity-Access-Management-Labs/blob/5c96ab9393fd3f11ec42e6a631282e10cf12255f/Screenshot%202026-05-08%20at%2009.59.07.png" width="300" height="300"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src= "https://github.com/NickHoward1/Identity-Access-Management-Labs/blob/0a8b76748c329237a8aac19c57fbb9a59e1274df/Screenshot%202026-05-08%20at%2010.06.50.png" width="300" height="300" /> 
+<img src= "https://github.com/NickHoward1/Identity-Access-Management-Labs/blob/5c96ab9393fd3f11ec42e6a631282e10cf12255f/Screenshot%202026-05-08%20at%2009.59.07.png" width="300" height="300"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src= "https://github.com/NickHoward1/Identity-Access-Management-Labs/blob/ac5ce17a932519d8e452a5169519ad0fd4458c58/Screenshot%202026-05-08%20at%2014.35.59.png" width="300" height="300" /> 
 </p>
 
 <h3>Password Reset and MFA Configurations</h3> 
