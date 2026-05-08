@@ -1,7 +1,7 @@
 <h1>Microsoft Entra ID Lab</h1>
 
 <h2>Objective</h2>
-To understand the 
+The objective of this lab is to understand how businesses use Microsoft Entra ID for identity and access management, develop familiarity with the platform, and perform common tasks typically carried out by an IAM Analyst in daily business operations.
 
 <h2>Environment</h2>
 <ul>
@@ -33,6 +33,7 @@ To understand the
 <img src= "https://github.com/NickHoward1/Identity-Access-Management-Labs/blob/5c96ab9393fd3f11ec42e6a631282e10cf12255f/Screenshot%202026-05-08%20at%2009.59.07.png" width="300" height="300"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src= "https://github.com/NickHoward1/Identity-Access-Management-Labs/blob/0a8b76748c329237a8aac19c57fbb9a59e1274df/Screenshot%202026-05-08%20at%2010.06.50.png" width="300" height="300" /> 
 </p>
 
+In the screenshot this shows 
 
 
 <h2>What I Learned</h2>
