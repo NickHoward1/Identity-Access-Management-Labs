@@ -1,7 +1,7 @@
 <h1>Microsoft Entra ID Lab</h1>
 
 <h2>Objective</h2>
-The objective of this lab is to understand how businesses use Microsoft Entra ID for identity and access management, develop familiarity with the platform, and perform common tasks typically carried out by an IAM Analyst in daily business operations.
+The objective of this lab is to understand how businesses use Microsoft Entra ID for Identity & Access Management, develop familiarity with the platform, and perform common tasks typically carried out by an IAM Analyst in daily business operations.
 
 <h2>Environment</h2>
 <ul>
@@ -30,7 +30,7 @@ The objective of this lab is to understand how businesses use Microsoft Entra ID
 
 The screenshots below show the process of manually creating a new user account in Microsoft Entra ID by configuring the required properties and user details. The final step involves assigning roles and permissions using Role-Based Access Control (RBAC), which allows access to be granted based on the user’s responsibilities within the organisation. I can also bulk-create users by uploading a pre-filled CSV file, which automatically populates the required fields within the user properties. 
 
-<b>Process:</b> Entra Admin Centre - Users - Creat New Users - Basics - Properties - Assignments - Review + Create. 
+<b>Process:</b> Entra Admin Centre - Users - Create New Users - Basics - Properties - Assignments - Review + Create. 
 
 <p>
 <img src= "https://github.com/NickHoward1/Identity-Access-Management-Labs/blob/d61448333210e2549d845205f6d79fbd6a6097ac/Screenshot%202026-05-08%20at%2009.48.20.png" width="300" height="300"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -39,7 +39,11 @@ The screenshots below show the process of manually creating a new user account i
 
 <h3>Groups</h3> 
 
-<p>
+Below, I demonstrate the creation of new groups within Microsoft Entra ID. I created both an HR group and a Sales/Marketing group, each configured for different business purposes. The HR group was created as a traditional Security group, which is used to manage access to specific resources, permissions, and security features across the organisation. The Sales/Marketing group was configured as a Microsoft 365 group, enabling users to collaborate and access shared services such as Microsoft Outlook, Microsoft Excel, Microsoft PowerPoint, Microsoft Teams, Microsoft OneDrive, and other Microsoft 365 applications.
+
+I also assigned roles within the HR Security group, including Global Administrator permissions, ensuring elevated privileges are only granted to users with the appropriate level of authority within the business. 
+
+
 <img src= "https://github.com/NickHoward1/Identity-Access-Management-Labs/blob/b1b19239fe629e80fcf7345495fc51775ef35905/Screenshot%202026-05-08%20at%2014.59.34.png" width="300" height="300"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src= "https://github.com/NickHoward1/Identity-Access-Management-Labs/blob/4a87fb82ad1b8b6ed25ff0976f1c302df9ba8035/Screenshot%202026-05-08%20at%2015.30.16.png" width="300" height="300"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src= "https://github.com/NickHoward1/Identity-Access-Management-Labs/blob/969d6ed783c16747ea763dea7a64aff03b5316ee/Screenshot%202026-05-08%20at%2015.30.39.png" width="300" height="300" /> 
 </p>
