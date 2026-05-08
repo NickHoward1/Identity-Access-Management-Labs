@@ -18,7 +18,7 @@ To understand the
   <li></li>
 </ul>
 
-<h2>Screenshots</h2>
+<h3>Screenshots</h3>
 
 <h2>Creating a new user account</h2> 
 
