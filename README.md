@@ -26,7 +26,7 @@ The objective of this lab is to understand how businesses use Microsoft Entra ID
 
 <h2>Screenshots</h2>
 
-<h3>Creating New User Accounts</h3> 
+<h3>New User Accounts</h3> 
 
 The screenshots below show the process of manually creating a new user account in Microsoft Entra ID by configuring the required properties and user details. The final step involves assigning roles and permissions using Role-Based Access Control (RBAC), which allows access to be granted based on the user’s responsibilities within the organisation. I can also bulk-create users by uploading a pre-filled CSV file, which automatically populates the required fields within the user properties. 
 
@@ -37,14 +37,14 @@ The screenshots below show the process of manually creating a new user account i
 <img src= "https://github.com/NickHoward1/Identity-Access-Management-Labs/blob/5c96ab9393fd3f11ec42e6a631282e10cf12255f/Screenshot%202026-05-08%20at%2009.59.07.png" width="300" height="300"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src= "https://github.com/NickHoward1/Identity-Access-Management-Labs/blob/0a8b76748c329237a8aac19c57fbb9a59e1274df/Screenshot%202026-05-08%20at%2010.06.50.png" width="300" height="300" /> 
 </p>
 
-<h3>Creating Groups</h3> 
+<h3>Groups</h3> 
 
 <p>
 <img src= "https://github.com/NickHoward1/Identity-Access-Management-Labs/blob/b1b19239fe629e80fcf7345495fc51775ef35905/Screenshot%202026-05-08%20at%2014.59.34.png" width="300" height="300"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src= "https://github.com/NickHoward1/Identity-Access-Management-Labs/blob/4a87fb82ad1b8b6ed25ff0976f1c302df9ba8035/Screenshot%202026-05-08%20at%2015.30.16.png" width="300" height="300"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src= "https://github.com/NickHoward1/Identity-Access-Management-Labs/blob/969d6ed783c16747ea763dea7a64aff03b5316ee/Screenshot%202026-05-08%20at%2015.30.39.png" width="300" height="300" /> 
 </p>
 
-<h3>Creating a Guest User</h3> 
+<h3>Guest User</h3> 
 
 <p>
 <img src= "https://github.com/NickHoward1/Identity-Access-Management-Labs/blob/d61448333210e2549d845205f6d79fbd6a6097ac/Screenshot%202026-05-08%20at%2009.48.20.png" width="300" height="300"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -62,7 +62,7 @@ In the screenshot below, I navigate through the password reset settings in Micro
 
 
 
-<h2>What I Learned</h2>
+<h2>What I've Learnt</h2>
 
 <p align="left">
 
