@@ -39,7 +39,7 @@ The screenshots below show the process of manually creating a new user account i
 
 <p>
 <img src= "https://github.com/NickHoward1/Identity-Access-Management-Labs/blob/be8472e9b9efcb535c7aa9c767d929db4e1ff007/Screenshot%202026-05-08%20at%2013.12.56.png" width="300" height="300"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src= "" width="300" height="300"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src= "" width="300" height="300" /> 
+<img src= "https://github.com/NickHoward1/Identity-Access-Management-Labs/blob/2b670f0cf47b391c59d9193cefa5e3abca4d67a5/Screenshot%202026-05-08%20at%2013.34.50.png" width="300" height="300"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src= "" width="300" height="300" /> 
 </p>
 
 
