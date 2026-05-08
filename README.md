@@ -11,16 +11,22 @@ To understand the
 </ul>
 <h2>Tasks Completed</h2>
 <ul>
-  <li></li>
+ <li>Create users/groups</li>
+ <li>Assign roles</li>
+ <li>Configure MFA</li>
+ <li>Conditional Access</li>
+ <li>Review sign-in logs</li>
 </ul>
+
 <h2>Tools used</h2>
+
 <ul>
   <li></li>
 </ul>
 
-<h3>Screenshots</h3>
+<h2>Screenshots</h2>
 
-<h2>Creating a new user account</h2> 
+<h3>Creating a new user account</h3> 
 
 <p>
 <img src= "https://github.com/NickHoward1/Identity-Access-Management-Labs/blob/d61448333210e2549d845205f6d79fbd6a6097ac/Screenshot%202026-05-08%20at%2009.48.20.png" width="300" height="300"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
