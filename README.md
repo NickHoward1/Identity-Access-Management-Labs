@@ -93,9 +93,11 @@ After confirming the integration was successful, I could then assign users and a
 
 <h3>Roles & Admins (RBAC)</h3> 
 
-Below shows how I naviagte through the 
+The screenshot below shows me creating a user with User Administrator access to manage a smaller group of users within the business. I also created an Administrative Unit that contains one User Administrator who is responsible for managing two other users within that unit.
 
-<b>Process:</b> Roles & Admin -  - New Application -  Select Application - Create - SSO - SAML - Fill in the required fields - Test.
+This shows how Administrative Units can be used to segment different areas of a business by department or location. For example, if I needed to separate a branch in Birmingham, I could create an Administrative Unit specifically for that location and assign a local administrator to manage only those users. This means they would have admin access to their own area of the business without having full administrative rights across the whole organisation.
+
+<b>Process:</b> Create New User - Assignments - Add Roles - Create | Admin Units - Add - Properties - Assign Roles (Example: User Administrator) - Select User - Create | Click into the Unit - Add User or groups.
 
 <img src= "https://github.com/NickHoward1/Identity-Access-Management-Labs/blob/398562789e7af032543dbaaeb628122de7018607/Screenshot%202026-05-09%20at%2013.03.50.png" width="300" height="300"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src= "https://github.com/NickHoward1/Identity-Access-Management-Labs/blob/5af40b87130d384336ff5dcec00dae79982d661c/Screenshot%202026-05-09%20at%2014.42.36.png" width="300" height="300"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 
