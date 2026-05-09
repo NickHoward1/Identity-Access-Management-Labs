@@ -53,6 +53,10 @@ For the Sales/Marketing group, instead of manually assigning users, I configured
 
 <h3>Guest User</h3> 
 
+
+
+<b>Process:</b> Users - New Users - Invite External User - Properties - Assignments - Review + Create. 
+<br> <br />
 <p>
 <img src= "https://github.com/NickHoward1/Identity-Access-Management-Labs/blob/d61448333210e2549d845205f6d79fbd6a6097ac/Screenshot%202026-05-08%20at%2009.48.20.png" width="300" height="300"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src= "https://github.com/NickHoward1/Identity-Access-Management-Labs/blob/5c96ab9393fd3f11ec42e6a631282e10cf12255f/Screenshot%202026-05-08%20at%2009.59.07.png" width="300" height="300"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src= "https://github.com/NickHoward1/Identity-Access-Management-Labs/blob/ac5ce17a932519d8e452a5169519ad0fd4458c58/Screenshot%202026-05-08%20at%2014.35.59.png" width="300" height="300" /> 
