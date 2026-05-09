@@ -24,7 +24,7 @@ The objective of this lab is to understand how businesses use Microsoft Entra ID
 
 <h2>Screenshots</h2>
 
-<h3>New User Accounts</h3> 
+<h3>New User Accounts & RBAC</h3> 
 
 The screenshots below show the process of manually creating a new user account in Microsoft Entra ID by configuring the required properties and user details. The final step involves assigning roles and permissions using Role-Based Access Control (RBAC), which allows access to be granted based on the user’s responsibilities within the organisation. I can also bulk-create users by uploading a pre-filled CSV file, which automatically populates the required fields within the user properties. 
 
