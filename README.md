@@ -87,7 +87,7 @@ The screenshot below shows me accessing the Audit Logs page within Microsoft Ent
 
 <b>Process:</b> Enterprise Apps - All Applications - New Application -  Select Application - Create - SSO - SAML - Fill in the required fields - Test.
 
-<img src= "https://github.com/NickHoward1/Identity-Access-Management-Labs/blob/713428bc269ac77c34b538c4736320105e1f67c1/Screenshot%202026-05-09%20at%2011.18.05.png" width="300" height="300"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src= "" width="300" height="300"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src= "" width="300" height="300"/>
+<img src= "https://github.com/NickHoward1/Identity-Access-Management-Labs/blob/713428bc269ac77c34b538c4736320105e1f67c1/Screenshot%202026-05-09%20at%2011.18.05.png" width="300" height="300"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src= "https://github.com/NickHoward1/Identity-Access-Management-Labs/blob/5ff53b94d3379ed8d9ea5f71def98c1c61672a78/Screenshot%202026-05-09%20at%2011.21.40.png" width="300" height="300"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src= "" width="300" height="300"/>
 
 <h2>Outcome</h2>
 
