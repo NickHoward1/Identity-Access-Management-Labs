@@ -91,7 +91,7 @@ The screenshot below shows me accessing the Audit Logs page within Microsoft Ent
 
 <b>Process:</b> Users - Password Reset - Properties -  Authentication methods - Registration - Notifications
 
-<img src= "" width="300" height="300"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src= "" width="300" height="300"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src= "" width="300" height="300"/>
+<img src= "https://github.com/NickHoward1/Identity-Access-Management-Labs/blob/713428bc269ac77c34b538c4736320105e1f67c1/Screenshot%202026-05-09%20at%2011.18.05.png" width="300" height="300"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src= "" width="300" height="300"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src= "" width="300" height="300"/>
 
 <h2>What I've Learnt</h2>
 
