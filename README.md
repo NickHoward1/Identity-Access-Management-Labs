@@ -99,7 +99,7 @@ After confirming the integration was successful, I could then assign users and a
 
 <b>Process:</b> Enterprise Apps - All Applications - New Application -  Select Application - Create - SSO - SAML - Fill in the required fields - Test.
 
-<img src= "" width="300" height="300"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src= "" width="300" height="300"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src= "" width="300" height="300"/>
+<img src= "https://github.com/NickHoward1/Identity-Access-Management-Labs/blob/398562789e7af032543dbaaeb628122de7018607/Screenshot%202026-05-09%20at%2013.03.50.png" width="300" height="300"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src= "" width="300" height="300"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src= "" width="300" height="300"/>
 
 <h2>Outcome</h2>
 
