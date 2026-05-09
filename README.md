@@ -18,8 +18,6 @@ The objective of this lab is to understand how businesses use Microsoft Entra ID
  <li>Review sign-in logs</li>
 </ul>
 
-<h2>Tools used</h2>
-
 <ul>
   <li></li>
 </ul>
@@ -83,17 +81,16 @@ The screenshot below shows me accessing the Audit Logs page within Microsoft Ent
 
 <img src= "https://github.com/NickHoward1/Identity-Access-Management-Labs/blob/6ef0a6c9a8610c68c5ae53cf8dbcb9519e3c5b60/Screenshot%202026-05-09%20at%2010.44.16.png" width="300" height="300"/>
 
-<h2>What I've Learnt</h2>
-
 <h3>Enterprise Application Integration</h3> 
 
 The screenshot below shows me accessing the Audit Logs page within Microsoft Entra ID. This is where I can monitor for unusual behaviour such as out-of-hours logins, multiple login attempts within a short period of time, unfamiliar locations, or logins from countries not associated with normal business operations. If I identify anything suspicious, I can investigate further using tools such as Microsoft Sentinel and Wireshark to determine whether a user account may have been compromised. From there, I would follow the appropriate mitigation process and escalate the incident to the Senior SOC Analyst if required.
 
-<b>Process:</b> Users - Password Reset - Properties -  Authentication methods - Registration - Notifications
+<b>Process:</b> Enterprise Apps - All Applications - New Application -  Select Application - Create - SSO - SAML - Fill in the required fields - Test.
 
 <img src= "https://github.com/NickHoward1/Identity-Access-Management-Labs/blob/713428bc269ac77c34b538c4736320105e1f67c1/Screenshot%202026-05-09%20at%2011.18.05.png" width="300" height="300"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src= "" width="300" height="300"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src= "" width="300" height="300"/>
 
-<h2>What I've Learnt</h2>
+<h2>Outcome</h2>
+
 
 <p align="left">
 
