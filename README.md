@@ -53,6 +53,7 @@ For the Sales/Marketing group, instead of manually assigning users, I configured
 
 <h3>Guest User</h3> 
 
+Below, I created a guest user account for external visitors who may require temporary access to the system. I followed the setup process and assigned roles depending on the nature of the visit. For example, if someone only needed access to documents to review SOPs, I could provide read-only access. However, if a consultant was coming into the business to make internal changes, I could grant them the appropriate permissions to access certain files and make the necessary changes.
 
 
 <b>Process:</b> Users - New Users - Invite External User - Properties - Assignments - Review + Create. 
