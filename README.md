@@ -70,7 +70,9 @@ Below, I created a guest user account for external visitors who may require temp
 
 In the screenshot below, I navigate through the password reset settings in Microsoft Entra ID to configure self-service password reset (SSPR), allowing users to securely reset their own passwords without contacting the helpdesk. I also configure the authentication settings to control how often users must re-confirm their authentication information. In addition, I set up Multi-Factor Authentication (MFA) to enhance account security by applying the “something you know” and “something you have” authentication principle.
 
-b>Process:</b> Users - Password Reset - Properties -  Authentication methods - Registration - Notifications
+<b>Process:</b> Users - Password Reset - Properties -  Authentication methods - Registration - Notifications
+
+<br> <br />
 
 <p>
 <img src= "https://github.com/NickHoward1/Identity-Access-Management-Labs/blob/4be7a5cc9272ce4dde5488c92391b99451d8fba8/Screenshot%202026-05-08%20at%2014.31.31.png" width="300" height="300"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
