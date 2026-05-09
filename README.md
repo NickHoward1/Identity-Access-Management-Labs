@@ -45,6 +45,8 @@ I also assigned roles within the HR Security group, including Global Administrat
 
 For the Sales/Marketing group, instead of manually assigning users, I configured the group as a Dynamic Group and created a rule that automatically adds users based on specific conditions. In this example, I configured the rule to include users located in the UK, demonstrating how dynamic groups can automate user management and improve administrative efficiency within Microsoft Entra ID.
 
+<b>Process:</b> Groups - All Groups - New Group - Group Type - Fill in Fields with * - Assign Owner - Assign Users - Select roles if applicable  
+
 
 <img src= "https://github.com/NickHoward1/Identity-Access-Management-Labs/blob/b1b19239fe629e80fcf7345495fc51775ef35905/Screenshot%202026-05-08%20at%2014.59.34.png" width="300" height="300"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src= "https://github.com/NickHoward1/Identity-Access-Management-Labs/blob/4a87fb82ad1b8b6ed25ff0976f1c302df9ba8035/Screenshot%202026-05-08%20at%2015.30.16.png" width="300" height="300"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src= "https://github.com/NickHoward1/Identity-Access-Management-Labs/blob/969d6ed783c16747ea763dea7a64aff03b5316ee/Screenshot%202026-05-08%20at%2015.30.39.png" width="300" height="300" /> 
