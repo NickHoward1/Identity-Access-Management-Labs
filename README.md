@@ -77,6 +77,8 @@ In the screenshot below, I navigate through the password reset settings in Micro
 
 <h3>Audit Logs</h3> 
 
+The screenshot below shows me accessing the Audit Logs page within Microsoft Entra ID. This is where I can monitor for unusual behaviour such as out-of-hours logins, multiple login attempts within a short period of time, unfamiliar locations, or logins from countries not associated with normal business operations. If I identify anything suspicious, I can investigate further using tools such as Microsoft Sentinel and Wireshark to determine whether a user account may have been compromised. From there, I would follow the appropriate mitigation process and escalate the incident to the Senior SOC Analyst if required.
+
 <b>Process:</b> Users - Password Reset - Properties -  Authentication methods - Registration - Notifications
 
 <img src= "https://github.com/NickHoward1/Identity-Access-Management-Labs/blob/6ef0a6c9a8610c68c5ae53cf8dbcb9519e3c5b60/Screenshot%202026-05-09%20at%2010.44.16.png" width="300" height="300"/>
