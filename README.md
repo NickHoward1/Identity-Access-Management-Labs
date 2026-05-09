@@ -79,7 +79,7 @@ In the screenshot below, I navigate through the password reset settings in Micro
 
 <b>Process:</b> Users - Password Reset - Properties -  Authentication methods - Registration - Notifications
 
-<img src= "" width="300" height="300"/>
+<img src= "https://github.com/NickHoward1/Identity-Access-Management-Labs/blob/6ef0a6c9a8610c68c5ae53cf8dbcb9519e3c5b60/Screenshot%202026-05-09%20at%2010.44.16.png" width="300" height="300"/>
 
 <h2>What I've Learnt</h2>
 
