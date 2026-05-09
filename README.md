@@ -93,11 +93,9 @@ After confirming the integration was successful, I could then assign users and a
 
 <h3>Roles & Admins (RBAC)</h3> 
 
-The screenshots below show how I would integrate a new application into Microsoft Entra ID for the company I work for. In this example, I integrated AWS by following the setup process, generating the Base64 certificate, and sending it to the appropriate team to complete the configuration. Once the setup was complete, I carried out testing to ensure the application was fully working and correctly integrated with Entra ID.
+Below shows how I naviagte through the 
 
-After confirming the integration was successful, I could then assign users and apply Conditional Access policies where required. For example, if a user attempted to sign in to AWS outside of the business network, they would be required to authenticate using MFA. However, if they were already signed into the internal company environment, they could seamlessly access AWS through Single Sign-On (SSO) without needing to complete MFA again.
-
-<b>Process:</b> Enterprise Apps - All Applications - New Application -  Select Application - Create - SSO - SAML - Fill in the required fields - Test.
+<b>Process:</b> Roles & Admin -  - New Application -  Select Application - Create - SSO - SAML - Fill in the required fields - Test.
 
 <img src= "https://github.com/NickHoward1/Identity-Access-Management-Labs/blob/398562789e7af032543dbaaeb628122de7018607/Screenshot%202026-05-09%20at%2013.03.50.png" width="300" height="300"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src= "" width="300" height="300"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src= "" width="300" height="300"/>
 
