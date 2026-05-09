@@ -97,7 +97,7 @@ Below shows how I naviagte through the
 
 <b>Process:</b> Roles & Admin -  - New Application -  Select Application - Create - SSO - SAML - Fill in the required fields - Test.
 
-<img src= "https://github.com/NickHoward1/Identity-Access-Management-Labs/blob/398562789e7af032543dbaaeb628122de7018607/Screenshot%202026-05-09%20at%2013.03.50.png" width="300" height="300"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src= "" width="300" height="300"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src= "" width="300" height="300"/>
+<img src= "https://github.com/NickHoward1/Identity-Access-Management-Labs/blob/398562789e7af032543dbaaeb628122de7018607/Screenshot%202026-05-09%20at%2013.03.50.png" width="300" height="300"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src= "https://github.com/NickHoward1/Identity-Access-Management-Labs/blob/5af40b87130d384336ff5dcec00dae79982d661c/Screenshot%202026-05-09%20at%2014.42.36.png" width="300" height="300"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 
 <h2>Outcome</h2>
 
