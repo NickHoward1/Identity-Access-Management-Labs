@@ -24,7 +24,7 @@ The objective of this lab is to understand how businesses use Microsoft Entra ID
 
 <h2>Screenshots</h2>
 
-<h3>New User Accounts & RBAC</h3> 
+<h3>New User Accounts</h3> 
 
 The screenshots below show the process of manually creating a new user account in Microsoft Entra ID by configuring the required properties and user details. The final step involves assigning roles and permissions using Role-Based Access Control (RBAC), which allows access to be granted based on the user’s responsibilities within the organisation. I can also bulk-create users by uploading a pre-filled CSV file, which automatically populates the required fields within the user properties. 
 
@@ -90,6 +90,16 @@ After confirming the integration was successful, I could then assign users and a
 <b>Process:</b> Enterprise Apps - All Applications - New Application -  Select Application - Create - SSO - SAML - Fill in the required fields - Test.
 
 <img src= "https://github.com/NickHoward1/Identity-Access-Management-Labs/blob/713428bc269ac77c34b538c4736320105e1f67c1/Screenshot%202026-05-09%20at%2011.18.05.png" width="300" height="300"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src= "https://github.com/NickHoward1/Identity-Access-Management-Labs/blob/5ff53b94d3379ed8d9ea5f71def98c1c61672a78/Screenshot%202026-05-09%20at%2011.21.40.png" width="300" height="300"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src= "https://github.com/NickHoward1/Identity-Access-Management-Labs/blob/7aa433727ca8477626abfcf013f9446b32d1a760/Screenshot%202026-05-09%20at%2011.39.17.png" width="300" height="300"/>
+
+<h3>Roles & Admins (RBAC)</h3> 
+
+The screenshots below show how I would integrate a new application into Microsoft Entra ID for the company I work for. In this example, I integrated AWS by following the setup process, generating the Base64 certificate, and sending it to the appropriate team to complete the configuration. Once the setup was complete, I carried out testing to ensure the application was fully working and correctly integrated with Entra ID.
+
+After confirming the integration was successful, I could then assign users and apply Conditional Access policies where required. For example, if a user attempted to sign in to AWS outside of the business network, they would be required to authenticate using MFA. However, if they were already signed into the internal company environment, they could seamlessly access AWS through Single Sign-On (SSO) without needing to complete MFA again.
+
+<b>Process:</b> Enterprise Apps - All Applications - New Application -  Select Application - Create - SSO - SAML - Fill in the required fields - Test.
+
+<img src= "" width="300" height="300"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src= "" width="300" height="300"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src= "" width="300" height="300"/>
 
 <h2>Outcome</h2>
 
