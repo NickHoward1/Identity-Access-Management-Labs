@@ -98,7 +98,7 @@ This shows how Administrative Units can be used to segment different areas of a 
 <img src= "https://github.com/NickHoward1/Identity-Access-Management-Labs/blob/398562789e7af032543dbaaeb628122de7018607/Screenshot%202026-05-09%20at%2013.03.50.png" width="300" height="300"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src= "https://github.com/NickHoward1/Identity-Access-Management-Labs/blob/5af40b87130d384336ff5dcec00dae79982d661c/Screenshot%202026-05-09%20at%2014.42.36.png" width="300" height="300"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 
 <h2>Outcome</h2>
-In this lab, I learned how to navigate my way through Microsoft Entra ID, understand why businesses use it, and recognise the benefits that come with making Identity and Access Management a seamless process. I also gained an understanding of how important Entra ID is for managing changes within an ever-evolving business environment.<br/>
+<b></b>In this lab, I learned how to navigate my way through Microsoft Entra ID, understand why businesses use it, and recognise the benefits that come with making Identity and Access Management a seamless process. I also gained an understanding of how important Entra ID is for managing changes within an ever-evolving business environment.<br/>
 
 Throughout the lab, I carried out a range of tasks that an IAM Analyst would typically perform as part of their day-to-day responsibilities, and I now feel comfortable completing these tasks within a real business environment.
 
