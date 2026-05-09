@@ -72,8 +72,6 @@ In the screenshot below, I navigate through the password reset settings in Micro
 
 <b>Process:</b> Users - Password Reset - Properties -  Authentication methods - Registration - Notifications
 
-<br> <br />
-
 <p>
 <img src= "https://github.com/NickHoward1/Identity-Access-Management-Labs/blob/4be7a5cc9272ce4dde5488c92391b99451d8fba8/Screenshot%202026-05-08%20at%2014.31.31.png" width="300" height="300"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src= "https://github.com/NickHoward1/Identity-Access-Management-Labs/blob/db352de6b8705887437d30f2fd780381d597b91d/Screenshot%202026-05-08%20at%2014.32.28.png" width="300" height="300"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src= "https://github.com/NickHoward1/Identity-Access-Management-Labs/blob/bdd3aa4def138c3e8fe44c558e1104cd7e4e1404/Screenshot%202026-05-08%20at%2013.43.23.png" width="300" height="300" /> 
