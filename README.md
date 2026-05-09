@@ -31,11 +31,12 @@ The objective of this lab is to understand how businesses use Microsoft Entra ID
 The screenshots below show the process of manually creating a new user account in Microsoft Entra ID by configuring the required properties and user details. The final step involves assigning roles and permissions using Role-Based Access Control (RBAC), which allows access to be granted based on the user’s responsibilities within the organisation. I can also bulk-create users by uploading a pre-filled CSV file, which automatically populates the required fields within the user properties. 
 
 <b>Process:</b> Entra Admin Centre - Users - Create New Users - Basics - Properties - Assignments - Review + Create. 
-<br> <br />
+
 <p>
 <img src= "https://github.com/NickHoward1/Identity-Access-Management-Labs/blob/d61448333210e2549d845205f6d79fbd6a6097ac/Screenshot%202026-05-08%20at%2009.48.20.png" width="300" height="300"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src= "https://github.com/NickHoward1/Identity-Access-Management-Labs/blob/5c96ab9393fd3f11ec42e6a631282e10cf12255f/Screenshot%202026-05-08%20at%2009.59.07.png" width="300" height="300"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src= "https://github.com/NickHoward1/Identity-Access-Management-Labs/blob/0a8b76748c329237a8aac19c57fbb9a59e1274df/Screenshot%202026-05-08%20at%2010.06.50.png" width="300" height="300" /> 
 </p>
+<br> <br />
 
 <h3>Groups</h3> 
 
@@ -45,13 +46,13 @@ I also assigned roles within the HR Security group, including Global Administrat
 
 For the Sales/Marketing group, instead of manually assigning users, I configured the group as a Dynamic Group and created a rule that automatically adds users based on specific conditions. In this example, I configured the rule to include users located in the UK, demonstrating how dynamic groups can automate user management and improve administrative efficiency within Microsoft Entra ID.
 
-<b>Process:</b> Groups - All Groups - New Group - Group Type - Fill in Fields with * - Assign Owner - Assign Users - Select roles if applicable  
-<br> <br />
+<b>Process:</b> Groups - All Groups - New Group - Group Type - Fill in Fields with * - Assign Owner - Assign Users - Select roles if applicable 
 
 <p>
 <img src= "https://github.com/NickHoward1/Identity-Access-Management-Labs/blob/b1b19239fe629e80fcf7345495fc51775ef35905/Screenshot%202026-05-08%20at%2014.59.34.png" width="300" height="300"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src= "https://github.com/NickHoward1/Identity-Access-Management-Labs/blob/4a87fb82ad1b8b6ed25ff0976f1c302df9ba8035/Screenshot%202026-05-08%20at%2015.30.16.png" width="300" height="300"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src= "https://github.com/NickHoward1/Identity-Access-Management-Labs/blob/969d6ed783c16747ea763dea7a64aff03b5316ee/Screenshot%202026-05-08%20at%2015.30.39.png" width="300" height="300" /> 
 </p>
+<br> <br />
 
 <h3>Guest User</h3> 
 
@@ -59,12 +60,11 @@ Below, I created a guest user account for external visitors who may require temp
 
 <b>Process:</b> Users - New Users - Invite External User - Properties - Assignments - Review + Create. 
 
-<br> <br />
-
 <p>
 <img src= "https://github.com/NickHoward1/Identity-Access-Management-Labs/blob/d61448333210e2549d845205f6d79fbd6a6097ac/Screenshot%202026-05-08%20at%2009.48.20.png" width="300" height="300"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src= "https://github.com/NickHoward1/Identity-Access-Management-Labs/blob/5c96ab9393fd3f11ec42e6a631282e10cf12255f/Screenshot%202026-05-08%20at%2009.59.07.png" width="300" height="300"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src= "https://github.com/NickHoward1/Identity-Access-Management-Labs/blob/ac5ce17a932519d8e452a5169519ad0fd4458c58/Screenshot%202026-05-08%20at%2014.35.59.png" width="300" height="300" /> 
 </p>
+<br> <br />
 
 <h3>Password Reset and MFA Configurations</h3> 
 
@@ -76,6 +76,7 @@ In the screenshot below, I navigate through the password reset settings in Micro
 <img src= "https://github.com/NickHoward1/Identity-Access-Management-Labs/blob/4be7a5cc9272ce4dde5488c92391b99451d8fba8/Screenshot%202026-05-08%20at%2014.31.31.png" width="300" height="300"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src= "https://github.com/NickHoward1/Identity-Access-Management-Labs/blob/db352de6b8705887437d30f2fd780381d597b91d/Screenshot%202026-05-08%20at%2014.32.28.png" width="300" height="300"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src= "https://github.com/NickHoward1/Identity-Access-Management-Labs/blob/bdd3aa4def138c3e8fe44c558e1104cd7e4e1404/Screenshot%202026-05-08%20at%2013.43.23.png" width="300" height="300" /> 
 </p>
+<br> <br />
 
 
 
