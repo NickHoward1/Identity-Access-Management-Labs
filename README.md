@@ -11,11 +11,11 @@ The objective of this lab is to understand how businesses use Microsoft Entra ID
 <h2>Tasks Completed</h2>
 <ul>
  <li>Create users/groups</li>
- <li>Assign roles</li>
+ <li>Assign roles (RBAC)</li>
  <li>Configure MFA</li>
  <li>Conditional Access</li>
  <li>Review sign-in logs</li>
- <li>App Integration</li>
+ <li>App Integration (SAML)</li>
 </ul>
 
 <h2>Screenshots</h2>
